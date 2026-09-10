@@ -1,0 +1,15 @@
+{
+  "name": "genpark-least-to-most-subgoal-planner-skill",
+  "version": "1.0.0",
+  "description": "Least-to-Most decomposition prompt planner organizing complex objectives into sequential subproblems with cumulative state propagation.",
+  "tags": [
+    "genpark-skill",
+    "agentic-ai",
+    "least-to-most",
+    "subgoal-planning",
+    "task-decomposition",
+    "agent-planning"
+  ],
+  "entrypoint": "client.py",
+  "dependencies": []
+}
